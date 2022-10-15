@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **TDD, DDD, Clean Architecture**
 
-- 💬 Ask me about **PHP, Symfony or LEGO**
+- 💬 Ask me about **PHP, Symfony or LEGOs 😉**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/thomas-age/](https://www.linkedin.com/in/thomas-age/)
-
-- ⚡ Fun fact **AFOL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
