@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A passionate developer from Canada</h3>
 
+- 🔭 I’m currently working at [Solutions TLM](https://tlmgo.com/fr/)
+
 - 🌱 I’m currently learning **TDD, DDD, Clean Architecture**
 
 - 💬 Ask me about **PHP and Symfony**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/thomas-age/](https://www.linkedin.com/in/thomas-age/)
 
-- ⚡ Fun fact **I'm an AFOL**
+- ⚡ Fun fact **AFOL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
